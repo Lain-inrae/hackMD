@@ -1,0 +1,13 @@
+<tool id="interactive_tool_heatmap" tool_type="interactive" name="heatmap" version="1.0.0">
+    <description>Visualize tsv dataMatrix files</description>
+    <citations>
+       <citation type="bibtex">
+       @misc{
+            author       = {Romain Dallet - romain.dallet@sb-roscoff.fr },
+            title        = {{Heatmap - A tool to visualise and manipulate dataMatrix }},
+            publisher    = {},
+            url          = {https://quay.io/repository/workflow4metabolomics/gie-shiny-chromato}
+        }
+    }</citation>
+    </citations>
+</tool>
